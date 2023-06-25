@@ -8394,7 +8394,7 @@ function create_fragment$7(ctx) {
 						"url": "",
 						"size": null
 					},
-					"title": "Name"
+					"title": "My Site"
 				},
 				site_nav: [
 					{ "link": { "url": "/", "label": "Home" } },
